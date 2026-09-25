@@ -1,0 +1,513 @@
+student_no,name,course,batch_number,trainer_name,email,date of joining,batch_time,course_payment,total_converted,total revenue
+STU0001,Vikram Pillai,Full Stack Python,BATCH-2026-07,Ankit Verma,vikram.pillai169@gmail.com,01-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0002,Rajesh Iyer,Full Stack Java,BATCH-2026-07,Kavita Sharma,rajesh.iyer3@gmail.com,01-07-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0003,Kavya Kumar,Full Stack Python,BATCH-2026-07,Pooja Sharma,kavya.kumar216@gmail.com,01-07-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0004,Ananya Chawla,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,ananya.chawla379@gmail.com,01-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0005,Sneha Singh,Full Stack Python,BATCH-2026-07,Pooja Sharma,sneha.singh208@gmail.com,01-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0006,Amit Gupta,Data Science,BATCH-2026-07,Sanjay Rao,amit.gupta334@gmail.com,02-07-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0007,Manish Joshi,Full Stack Java,BATCH-2026-07,Ramesh Kumar,manish.joshi89@gmail.com,02-07-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0008,Arjun Gupta,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,arjun.gupta347@gmail.com,02-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0009,Swati Iyer,Medical Coding,BATCH-2026-07,Sneha Reddy,swati.iyer455@gmail.com,02-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0010,Deepika Deshmukh,Full Stack Java,BATCH-2026-07,Ramesh Kumar,deepika.deshmukh29@gmail.com,02-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0011,Aditya Kumar,Full Stack Python,BATCH-2026-07,Ankit Verma,aditya.kumar221@gmail.com,02-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0012,Preeti Kulkarni,Medical Coding,BATCH-2026-07,Sneha Reddy,preeti.kulkarni503@gmail.com,02-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0013,Pooja Kumar,Full Stack Python,BATCH-2026-07,Ankit Verma,pooja.kumar137@gmail.com,02-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0014,Siddharth Malhotra,Medical Coding,BATCH-2026-07,Meera Nair,siddharth.malhotra435@gmail.com,03-07-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0015,Gaurav Bhasin,Full Stack Java,BATCH-2026-07,Kavita Sharma,gaurav.bhasin128@gmail.com,03-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0016,Isha Bhasin,Data Science,BATCH-2026-07,Sanjay Rao,isha.bhasin298@gmail.com,03-07-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0017,Varun Patel,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,varun.patel418@gmail.com,03-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0018,Simran Singh,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,simran.singh394@gmail.com,03-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0019,Pooja Patel,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,pooja.patel428@gmail.com,03-07-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0020,Suresh Reddy,Full Stack Python,BATCH-2026-07,Pooja Sharma,suresh.reddy225@gmail.com,03-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0021,Isha Kulkarni,Full Stack Python,BATCH-2026-07,Pooja Sharma,isha.kulkarni166@gmail.com,04-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0022,Priya Verma,Data Science,BATCH-2026-07,Ankit Verma,priya.verma307@gmail.com,04-07-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0023,Gaurav Mehta,Data Science,BATCH-2026-07,Ankit Verma,gaurav.mehta262@gmail.com,04-07-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0024,Meenakshi Menon,Full Stack Python,BATCH-2026-07,Ankit Verma,meenakshi.menon141@gmail.com,04-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0025,Siddharth Deshmukh,Full Stack Python,BATCH-2026-07,Ankit Verma,siddharth.deshmukh180@gmail.com,04-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0026,Ananya Patel,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,ananya.patel375@gmail.com,05-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0027,Siddharth Malhotra,Full Stack Java,BATCH-2026-07,Kavita Sharma,siddharth.malhotra20@gmail.com,05-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0028,Kavya Kulkarni,Full Stack Java,BATCH-2026-07,Ramesh Kumar,kavya.kulkarni79@gmail.com,05-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0029,Diya Mehta,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,diya.mehta422@gmail.com,05-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0030,Manish Reddy,Data Science,BATCH-2026-07,Ankit Verma,manish.reddy285@gmail.com,05-07-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0031,Gaurav Deshmukh,Medical Coding,BATCH-2026-07,Meera Nair,gaurav.deshmukh464@gmail.com,05-07-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0032,Aakash Verma,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,aakash.verma386@gmail.com,06-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0033,Swati Menon,Full Stack Java,BATCH-2026-07,Kavita Sharma,swati.menon100@gmail.com,06-07-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0034,Tanvi Malhotra,Medical Coding,BATCH-2026-07,Sneha Reddy,tanvi.malhotra496@gmail.com,06-07-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0035,Manish Menon,Full Stack Python,BATCH-2026-07,Ankit Verma,manish.menon219@gmail.com,07-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0036,Sneha Sharma,Full Stack Java,BATCH-2026-07,Ramesh Kumar,sneha.sharma14@gmail.com,07-07-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0037,Kavya Kulkarni,Data Science,BATCH-2026-07,Ankit Verma,kavya.kulkarni311@gmail.com,07-07-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0038,Priya Sharma,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,priya.sharma373@gmail.com,07-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0039,Ananya Kulkarni,Medical Coding,BATCH-2026-07,Meera Nair,ananya.kulkarni508@gmail.com,07-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0040,Amit Gupta,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,amit.gupta423@gmail.com,07-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0041,Vikram Sharma,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,vikram.sharma370@gmail.com,08-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0042,Arjun Sharma,Data Science,BATCH-2026-07,Sanjay Rao,arjun.sharma301@gmail.com,08-07-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0043,Vikram Rao,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,vikram.rao362@gmail.com,08-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0044,Swati Rao,Full Stack Java,BATCH-2026-07,Kavita Sharma,swati.rao68@gmail.com,08-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0045,Rajesh Bhasin,Full Stack Java,BATCH-2026-07,Kavita Sharma,rajesh.bhasin116@gmail.com,09-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0046,Swati Patel,Medical Coding,BATCH-2026-07,Meera Nair,swati.patel510@gmail.com,09-07-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0047,Riya Reddy,Full Stack Python,BATCH-2026-07,Pooja Sharma,riya.reddy237@gmail.com,09-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0048,Rahul Singh,Medical Coding,BATCH-2026-07,Meera Nair,rahul.singh499@gmail.com,09-07-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0049,Siddharth Reddy,Data Science,BATCH-2026-07,Ankit Verma,siddharth.reddy325@gmail.com,09-07-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0050,Meenakshi Joshi,Full Stack Python,BATCH-2026-07,Pooja Sharma,meenakshi.joshi153@gmail.com,10-07-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0051,Gaurav Chawla,Full Stack Python,BATCH-2026-07,Ankit Verma,gaurav.chawla206@gmail.com,10-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0052,Aakash Rao,Medical Coding,BATCH-2026-07,Sneha Reddy,aakash.rao493@gmail.com,10-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0053,Tanvi Rao,Full Stack Python,BATCH-2026-07,Ankit Verma,tanvi.rao194@gmail.com,10-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0054,Tanvi Joshi,Full Stack Python,BATCH-2026-07,Pooja Sharma,tanvi.joshi186@gmail.com,11-07-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0055,Manish Menon,Medical Coding,BATCH-2026-07,Sneha Reddy,manish.menon461@gmail.com,11-07-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0056,Swati Gupta,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,swati.gupta355@gmail.com,11-07-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0057,Rajesh Menon,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,rajesh.menon385@gmail.com,11-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0058,Diya Nair,Full Stack Python,BATCH-2026-07,Pooja Sharma,diya.nair167@gmail.com,12-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0059,Priya Rao,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,priya.rao358@gmail.com,12-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0060,Pooja Chawla,Full Stack Java,BATCH-2026-07,Kavita Sharma,pooja.chawla10@gmail.com,12-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0061,Neha Verma,Full Stack Python,BATCH-2026-07,Ankit Verma,neha.verma229@gmail.com,12-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0062,Simran Reddy,Medical Coding,BATCH-2026-07,Meera Nair,simran.reddy477@gmail.com,12-07-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0063,Kavya Sharma,Medical Coding,BATCH-2026-07,Sneha Reddy,kavya.sharma469@gmail.com,12-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0064,Isha Deshmukh,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,isha.deshmukh351@gmail.com,12-07-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0065,Suresh Iyer,Full Stack Python,BATCH-2026-07,Ankit Verma,suresh.iyer215@gmail.com,12-07-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0066,Karan Kulkarni,Data Science,BATCH-2026-07,Sanjay Rao,karan.kulkarni272@gmail.com,12-07-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0067,Vikram Nair,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,vikram.nair354@gmail.com,12-07-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0068,Aditya Gupta,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,aditya.gupta399@gmail.com,12-07-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0069,Swati Singh,Data Science,BATCH-2026-07,Ankit Verma,swati.singh274@gmail.com,12-07-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0070,Tanvi Joshi,Full Stack Java,BATCH-2026-07,Kavita Sharma,tanvi.joshi129@gmail.com,13-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0071,Suresh Verma,Data Science,BATCH-2026-07,Sanjay Rao,suresh.verma313@gmail.com,13-07-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0072,Simran Kumar,Full Stack Java,BATCH-2026-07,Ramesh Kumar,simran.kumar4@gmail.com,13-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0073,Swati Menon,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,swati.menon416@gmail.com,14-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0074,Sneha Malhotra,Data Science,BATCH-2026-07,Ankit Verma,sneha.malhotra281@gmail.com,14-07-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0075,Varun Mehta,Full Stack Java,BATCH-2026-07,Ramesh Kumar,varun.mehta101@gmail.com,14-07-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0076,Sneha Gupta,Full Stack Java,BATCH-2026-07,Kavita Sharma,sneha.gupta39@gmail.com,14-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0077,Karan Singh,Medical Coding,BATCH-2026-07,Sneha Reddy,karan.singh498@gmail.com,15-07-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0078,Tanvi Reddy,Full Stack Python,BATCH-2026-07,Pooja Sharma,tanvi.reddy207@gmail.com,15-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0079,Siddharth Nambiar,Full Stack Java,BATCH-2026-07,Ramesh Kumar,siddharth.nambiar78@gmail.com,15-07-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0080,Karan Nair,Medical Coding,BATCH-2026-07,Sneha Reddy,karan.nair466@gmail.com,15-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0081,Gaurav Sharma,Full Stack Python,BATCH-2026-07,Pooja Sharma,gaurav.sharma232@gmail.com,15-07-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0082,Rohan Gupta,Data Science,BATCH-2026-07,Ankit Verma,rohan.gupta323@gmail.com,16-07-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0083,Swati Pillai,Full Stack Python,BATCH-2026-07,Ankit Verma,swati.pillai205@gmail.com,16-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0084,Preeti Chawla,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,preeti.chawla345@gmail.com,16-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0085,Preeti Kumar,Full Stack Java,BATCH-2026-07,Ramesh Kumar,preeti.kumar31@gmail.com,16-07-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0086,Isha Joshi,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,isha.joshi361@gmail.com,16-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0087,Karan Malhotra,Full Stack Java,BATCH-2026-07,Kavita Sharma,karan.malhotra42@gmail.com,16-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0088,Neha Nair,Full Stack Java,BATCH-2026-07,Ramesh Kumar,neha.nair69@gmail.com,16-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0089,Amit Iyer,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,amit.iyer425@gmail.com,16-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0090,Karan Pillai,Full Stack Java,BATCH-2026-07,Kavita Sharma,karan.pillai55@gmail.com,16-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0091,Varun Kumar,Medical Coding,BATCH-2026-07,Meera Nair,varun.kumar437@gmail.com,17-07-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0092,Rahul Sharma,Medical Coding,BATCH-2026-07,Meera Nair,rahul.sharma468@gmail.com,17-07-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0093,Tanvi Nair,Full Stack Java,BATCH-2026-07,Kavita Sharma,tanvi.nair35@gmail.com,17-07-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0094,Aditya Pillai,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,aditya.pillai367@gmail.com,17-07-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0095,Simran Nambiar,Data Science,BATCH-2026-07,Sanjay Rao,simran.nambiar304@gmail.com,17-07-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0096,Gaurav Menon,Full Stack Java,BATCH-2026-07,Kavita Sharma,gaurav.menon34@gmail.com,18-07-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0097,Aditya Kulkarni,Medical Coding,BATCH-2026-07,Sneha Reddy,aditya.kulkarni479@gmail.com,18-07-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0098,Riya Deshmukh,Full Stack Java,BATCH-2026-07,Kavita Sharma,riya.deshmukh86@gmail.com,18-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0099,Aakash Rao,Full Stack Python,BATCH-2026-07,Pooja Sharma,aakash.rao183@gmail.com,18-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0100,Tanvi Sharma,Full Stack Python,BATCH-2026-07,Ankit Verma,tanvi.sharma192@gmail.com,18-07-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0101,Tanvi Sharma,Full Stack Java,BATCH-2026-07,Kavita Sharma,tanvi.sharma84@gmail.com,19-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0102,Aditya Deshmukh,Full Stack Python,BATCH-2026-07,Ankit Verma,aditya.deshmukh168@gmail.com,19-07-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0103,Preeti Patel,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,preeti.patel343@gmail.com,19-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0104,Rahul Reddy,Full Stack Java,BATCH-2026-07,Kavita Sharma,rahul.reddy108@gmail.com,19-07-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0105,Rohan Patel,Medical Coding,BATCH-2026-07,Sneha Reddy,rohan.patel472@gmail.com,20-07-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0106,Kavya Patel,Full Stack Python,BATCH-2026-07,Ankit Verma,kavya.patel165@gmail.com,20-07-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0107,Vikram Joshi,Medical Coding,BATCH-2026-07,Sneha Reddy,vikram.joshi443@gmail.com,20-07-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0108,Nikhil Nair,Full Stack Python,BATCH-2026-07,Pooja Sharma,nikhil.nair227@gmail.com,20-07-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0109,Vikram Mehta,Medical Coding,BATCH-2026-07,Sneha Reddy,vikram.mehta483@gmail.com,21-07-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0110,Rajesh Kumar,Full Stack Java,BATCH-2026-07,Kavita Sharma,rajesh.kumar66@gmail.com,21-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0111,Vikram Rao,Full Stack Python,BATCH-2026-07,Pooja Sharma,vikram.rao171@gmail.com,21-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0112,Meenakshi Iyer,Full Stack Python,BATCH-2026-07,Ankit Verma,meenakshi.iyer174@gmail.com,21-07-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0113,Rahul Reddy,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,rahul.reddy432@gmail.com,21-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0114,Ananya Gupta,Full Stack Python,BATCH-2026-07,Ankit Verma,ananya.gupta209@gmail.com,22-07-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0115,Vikram Chawla,Full Stack Python,BATCH-2026-07,Ankit Verma,vikram.chawla164@gmail.com,22-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0116,Rahul Singh,Full Stack Python,BATCH-2026-07,Pooja Sharma,rahul.singh193@gmail.com,22-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0117,Kavya Patel,Medical Coding,BATCH-2026-07,Sneha Reddy,kavya.patel488@gmail.com,22-07-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0118,Aditya Nambiar,Data Science,BATCH-2026-07,Ankit Verma,aditya.nambiar322@gmail.com,22-07-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0119,Siddharth Sharma,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,siddharth.sharma382@gmail.com,22-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0120,Simran Reddy,Full Stack Python,BATCH-2026-07,Ankit Verma,simran.reddy223@gmail.com,22-07-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0121,Swati Iyer,Full Stack Java,BATCH-2026-07,Kavita Sharma,swati.iyer120@gmail.com,23-07-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0122,Riya Deshmukh,Full Stack Java,BATCH-2026-07,Kavita Sharma,riya.deshmukh54@gmail.com,23-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0123,Vikram Kulkarni,Full Stack Python,BATCH-2026-07,Ankit Verma,vikram.kulkarni179@gmail.com,23-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0124,Neha Patel,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,neha.patel348@gmail.com,23-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0125,Rahul Sharma,Full Stack Python,BATCH-2026-07,Pooja Sharma,rahul.sharma235@gmail.com,23-07-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0126,Arjun Rao,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,arjun.rao368@gmail.com,23-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0127,Riya Singh,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,riya.singh384@gmail.com,23-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0128,Deepika Singh,Medical Coding,BATCH-2026-07,Meera Nair,deepika.singh438@gmail.com,23-07-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0129,Suresh Joshi,Full Stack Java,BATCH-2026-07,Ramesh Kumar,suresh.joshi131@gmail.com,23-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0130,Vikram Deshmukh,Full Stack Java,BATCH-2026-07,Ramesh Kumar,vikram.deshmukh97@gmail.com,23-07-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0131,Deepika Singh,Data Science,BATCH-2026-07,Sanjay Rao,deepika.singh277@gmail.com,24-07-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0132,Sneha Pillai,Full Stack Java,BATCH-2026-07,Kavita Sharma,sneha.pillai26@gmail.com,24-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0133,Ananya Deshmukh,Full Stack Java,BATCH-2026-07,Ramesh Kumar,ananya.deshmukh83@gmail.com,24-07-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0134,Ananya Kulkarni,Full Stack Python,BATCH-2026-07,Ankit Verma,ananya.kulkarni199@gmail.com,25-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0135,Aakash Iyer,Full Stack Java,BATCH-2026-07,Kavita Sharma,aakash.iyer28@gmail.com,25-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0136,Kavya Malhotra,Data Science,BATCH-2026-07,Sanjay Rao,kavya.malhotra316@gmail.com,25-07-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0137,Preeti Patel,Full Stack Java,BATCH-2026-07,Kavita Sharma,preeti.patel48@gmail.com,25-07-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0138,Varun Rao,Data Science,BATCH-2026-07,Ankit Verma,varun.rao324@gmail.com,25-07-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0139,Swati Pillai,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,swati.pillai390@gmail.com,25-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0140,Neha Mehta,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,neha.mehta430@gmail.com,25-07-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0141,Amit Nambiar,Full Stack Java,BATCH-2026-07,Kavita Sharma,amit.nambiar46@gmail.com,26-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0142,Siddharth Kulkarni,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,siddharth.kulkarni374@gmail.com,26-07-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0143,Neha Kulkarni,Data Science,BATCH-2026-07,Sanjay Rao,neha.kulkarni290@gmail.com,26-07-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0144,Arjun Gupta,Medical Coding,BATCH-2026-07,Meera Nair,arjun.gupta475@gmail.com,27-07-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0145,Neha Rao,Full Stack Python,BATCH-2026-07,Pooja Sharma,neha.rao135@gmail.com,27-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0146,Ananya Deshmukh,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,ananya.deshmukh346@gmail.com,27-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0147,Manish Pillai,Full Stack Java,BATCH-2026-07,Kavita Sharma,manish.pillai56@gmail.com,28-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0148,Preeti Menon,Medical Coding,BATCH-2026-07,Meera Nair,preeti.menon481@gmail.com,28-07-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0149,Riya Pillai,Full Stack Python,BATCH-2026-07,Ankit Verma,riya.pillai201@gmail.com,28-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0150,Rohan Singh,Full Stack Java,BATCH-2026-07,Ramesh Kumar,rohan.singh99@gmail.com,28-07-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0151,Nikhil Singh,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,nikhil.singh429@gmail.com,28-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0152,Preeti Nambiar,Full Stack Python,BATCH-2026-07,Pooja Sharma,preeti.nambiar177@gmail.com,28-07-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0153,Swati Mehta,Full Stack Python,BATCH-2026-07,Ankit Verma,swati.mehta155@gmail.com,28-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0154,Manish Pillai,Full Stack Python,BATCH-2026-07,Ankit Verma,manish.pillai157@gmail.com,28-07-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0155,Isha Gupta,Full Stack Python,BATCH-2026-07,Ankit Verma,isha.gupta173@gmail.com,29-07-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0156,Neha Nambiar,Data Science,BATCH-2026-07,Sanjay Rao,neha.nambiar321@gmail.com,29-07-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0157,Meenakshi Reddy,AWS Cloud Architecture,BATCH-2026-07,Rajesh Gupta,meenakshi.reddy401@gmail.com,29-07-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0158,Suresh Nair,Full Stack Java,BATCH-2026-07,Kavita Sharma,suresh.nair90@gmail.com,29-07-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0159,Aditya Reddy,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,aditya.reddy356@gmail.com,29-07-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0160,Aakash Reddy,Medical Coding,BATCH-2026-07,Sneha Reddy,aakash.reddy484@gmail.com,29-07-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0161,Isha Iyer,Full Stack Java,BATCH-2026-07,Ramesh Kumar,isha.iyer16@gmail.com,30-07-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0162,Kavya Sharma,AWS Cloud Architecture,BATCH-2026-07,Vikram Malhotra,kavya.sharma380@gmail.com,31-07-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0163,Vikram Verma,Full Stack Python,BATCH-2026-07,Pooja Sharma,vikram.verma196@gmail.com,31-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0164,Karan Bhasin,Full Stack Python,BATCH-2026-07,Ankit Verma,karan.bhasin197@gmail.com,31-07-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0165,Diya Mehta,Medical Coding,BATCH-2026-08,Sneha Reddy,diya.mehta457@gmail.com,01-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0166,Manish Reddy,Medical Coding,BATCH-2026-08,Meera Nair,manish.reddy463@gmail.com,01-08-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0167,Varun Rao,Data Science,BATCH-2026-08,Ankit Verma,varun.rao251@gmail.com,01-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0168,Manish Rao,Full Stack Python,BATCH-2026-08,Pooja Sharma,manish.rao210@gmail.com,02-08-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0169,Rohan Sharma,Full Stack Python,BATCH-2026-08,Pooja Sharma,rohan.sharma147@gmail.com,02-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0170,Simran Kulkarni,Medical Coding,BATCH-2026-08,Sneha Reddy,simran.kulkarni456@gmail.com,02-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0171,Diya Kulkarni,Full Stack Python,BATCH-2026-08,Ankit Verma,diya.kulkarni217@gmail.com,03-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0172,Sneha Chawla,Medical Coding,BATCH-2026-08,Sneha Reddy,sneha.chawla500@gmail.com,03-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0173,Gaurav Rao,Full Stack Java,BATCH-2026-08,Ramesh Kumar,gaurav.rao62@gmail.com,03-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0174,Nikhil Kumar,Full Stack Java,BATCH-2026-08,Kavita Sharma,nikhil.kumar117@gmail.com,03-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0175,Amit Malhotra,Full Stack Java,BATCH-2026-08,Kavita Sharma,amit.malhotra98@gmail.com,03-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0176,Rahul Chawla,Medical Coding,BATCH-2026-08,Meera Nair,rahul.chawla433@gmail.com,04-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0177,Preeti Patel,Data Science,BATCH-2026-08,Ankit Verma,preeti.patel329@gmail.com,04-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0178,Arjun Verma,Medical Coding,BATCH-2026-08,Sneha Reddy,arjun.verma444@gmail.com,04-08-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0179,Isha Iyer,Full Stack Java,BATCH-2026-08,Ramesh Kumar,isha.iyer27@gmail.com,04-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0180,Sneha Verma,Data Science,BATCH-2026-08,Ankit Verma,sneha.verma314@gmail.com,04-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0181,Aditya Mehta,Medical Coding,BATCH-2026-08,Sneha Reddy,aditya.mehta447@gmail.com,05-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0182,Preeti Reddy,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,preeti.reddy366@gmail.com,05-08-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0183,Rajesh Bhasin,Full Stack Python,BATCH-2026-08,Ankit Verma,rajesh.bhasin148@gmail.com,05-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0184,Tanvi Gupta,Full Stack Python,BATCH-2026-08,Pooja Sharma,tanvi.gupta224@gmail.com,05-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0185,Vikram Chawla,Full Stack Java,BATCH-2026-08,Ramesh Kumar,vikram.chawla92@gmail.com,05-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0186,Amit Malhotra,Medical Coding,BATCH-2026-08,Sneha Reddy,amit.malhotra494@gmail.com,06-08-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0187,Diya Reddy,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,diya.reddy350@gmail.com,06-08-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0188,Preeti Kulkarni,Data Science,BATCH-2026-08,Sanjay Rao,preeti.kulkarni326@gmail.com,06-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0189,Meenakshi Rao,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,meenakshi.rao365@gmail.com,06-08-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0190,Meenakshi Gupta,Full Stack Java,BATCH-2026-08,Ramesh Kumar,meenakshi.gupta104@gmail.com,07-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0191,Rohan Nambiar,Full Stack Java,BATCH-2026-08,Ramesh Kumar,rohan.nambiar127@gmail.com,07-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0192,Deepika Kulkarni,Data Science,BATCH-2026-08,Ankit Verma,deepika.kulkarni244@gmail.com,07-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0193,Arjun Sharma,Full Stack Python,BATCH-2026-08,Pooja Sharma,arjun.sharma239@gmail.com,07-08-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0194,Vikram Rao,Full Stack Java,BATCH-2026-08,Ramesh Kumar,vikram.rao61@gmail.com,07-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0195,Varun Patel,Full Stack Python,BATCH-2026-08,Pooja Sharma,varun.patel202@gmail.com,07-08-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0196,Rajesh Pillai,Full Stack Python,BATCH-2026-08,Ankit Verma,rajesh.pillai188@gmail.com,07-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0197,Vikram Chawla,Medical Coding,BATCH-2026-08,Meera Nair,vikram.chawla478@gmail.com,08-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0198,Priya Singh,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,priya.singh409@gmail.com,08-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0199,Deepika Patel,Data Science,BATCH-2026-08,Ankit Verma,deepika.patel256@gmail.com,08-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0200,Simran Joshi,Medical Coding,BATCH-2026-08,Meera Nair,simran.joshi512@gmail.com,08-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0201,Gaurav Patel,Full Stack Python,BATCH-2026-08,Ankit Verma,gaurav.patel162@gmail.com,08-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0202,Suresh Iyer,Data Science,BATCH-2026-08,Sanjay Rao,suresh.iyer255@gmail.com,09-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0203,Priya Malhotra,Medical Coding,BATCH-2026-08,Meera Nair,priya.malhotra441@gmail.com,09-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0204,Tanvi Deshmukh,Full Stack Java,BATCH-2026-08,Ramesh Kumar,tanvi.deshmukh52@gmail.com,09-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0205,Meenakshi Reddy,Full Stack Java,BATCH-2026-08,Ramesh Kumar,meenakshi.reddy37@gmail.com,09-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0206,Aditya Mehta,Data Science,BATCH-2026-08,Sanjay Rao,aditya.mehta330@gmail.com,09-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0207,Preeti Joshi,Medical Coding,BATCH-2026-08,Sneha Reddy,preeti.joshi505@gmail.com,09-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0208,Rajesh Pillai,Data Science,BATCH-2026-08,Ankit Verma,rajesh.pillai289@gmail.com,09-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0209,Siddharth Kulkarni,Full Stack Python,BATCH-2026-08,Ankit Verma,siddharth.kulkarni139@gmail.com,09-08-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0210,Meenakshi Mehta,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,meenakshi.mehta395@gmail.com,10-08-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0211,Meenakshi Joshi,Full Stack Python,BATCH-2026-08,Pooja Sharma,meenakshi.joshi144@gmail.com,10-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0212,Simran Kulkarni,Data Science,BATCH-2026-08,Ankit Verma,simran.kulkarni291@gmail.com,10-08-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0213,Simran Kulkarni,Full Stack Java,BATCH-2026-08,Ramesh Kumar,simran.kulkarni71@gmail.com,10-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0214,Amit Pillai,Full Stack Python,BATCH-2026-08,Pooja Sharma,amit.pillai152@gmail.com,10-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0215,Tanvi Kulkarni,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,tanvi.kulkarni353@gmail.com,10-08-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0216,Aditya Sharma,Full Stack Java,BATCH-2026-08,Kavita Sharma,aditya.sharma5@gmail.com,10-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0217,Aakash Sharma,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,aakash.sharma371@gmail.com,10-08-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0218,Deepika Bhasin,Data Science,BATCH-2026-08,Sanjay Rao,deepika.bhasin315@gmail.com,11-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0219,Vikram Mehta,Medical Coding,BATCH-2026-08,Meera Nair,vikram.mehta491@gmail.com,11-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0220,Aakash Singh,Data Science,BATCH-2026-08,Ankit Verma,aakash.singh268@gmail.com,11-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0221,Simran Iyer,Full Stack Python,BATCH-2026-08,Pooja Sharma,simran.iyer145@gmail.com,11-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0222,Nikhil Menon,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,nikhil.menon420@gmail.com,12-08-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0223,Rahul Rao,Full Stack Java,BATCH-2026-08,Kavita Sharma,rahul.rao132@gmail.com,12-08-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0224,Nikhil Kulkarni,Full Stack Python,BATCH-2026-08,Ankit Verma,nikhil.kulkarni195@gmail.com,12-08-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0225,Arjun Verma,Full Stack Java,BATCH-2026-08,Kavita Sharma,arjun.verma126@gmail.com,12-08-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0226,Swati Malhotra,Data Science,BATCH-2026-08,Sanjay Rao,swati.malhotra299@gmail.com,12-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0227,Meenakshi Verma,Full Stack Java,BATCH-2026-08,Kavita Sharma,meenakshi.verma124@gmail.com,12-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0228,Suresh Patel,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,suresh.patel359@gmail.com,13-08-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0229,Diya Sharma,Data Science,BATCH-2026-08,Sanjay Rao,diya.sharma269@gmail.com,13-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0230,Amit Rao,Data Science,BATCH-2026-08,Sanjay Rao,amit.rao319@gmail.com,13-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0231,Sneha Mehta,Full Stack Java,BATCH-2026-08,Ramesh Kumar,sneha.mehta7@gmail.com,13-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0232,Manish Gupta,Full Stack Java,BATCH-2026-08,Kavita Sharma,manish.gupta44@gmail.com,13-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0233,Karan Menon,Full Stack Java,BATCH-2026-08,Ramesh Kumar,karan.menon77@gmail.com,13-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0234,Manish Nair,Data Science,BATCH-2026-08,Ankit Verma,manish.nair279@gmail.com,14-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0235,Kavya Singh,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,kavya.singh417@gmail.com,14-08-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0236,Riya Patel,Data Science,BATCH-2026-08,Ankit Verma,riya.patel276@gmail.com,14-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0237,Sneha Nambiar,Data Science,BATCH-2026-08,Sanjay Rao,sneha.nambiar327@gmail.com,14-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0238,Pooja Sharma,Data Science,BATCH-2026-08,Ankit Verma,pooja.sharma296@gmail.com,14-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0239,Preeti Sharma,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,preeti.sharma431@gmail.com,14-08-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0240,Siddharth Bhasin,Full Stack Java,BATCH-2026-08,Ramesh Kumar,siddharth.bhasin121@gmail.com,14-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0241,Meenakshi Iyer,Full Stack Java,BATCH-2026-08,Ramesh Kumar,meenakshi.iyer130@gmail.com,15-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0242,Karan Deshmukh,Full Stack Java,BATCH-2026-08,Ramesh Kumar,karan.deshmukh58@gmail.com,15-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0243,Preeti Rao,Full Stack Java,BATCH-2026-08,Kavita Sharma,preeti.rao74@gmail.com,15-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0244,Preeti Menon,Data Science,BATCH-2026-08,Ankit Verma,preeti.menon288@gmail.com,15-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0245,Siddharth Sharma,Full Stack Java,BATCH-2026-08,Kavita Sharma,siddharth.sharma106@gmail.com,15-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0246,Deepika Gupta,Full Stack Python,BATCH-2026-08,Ankit Verma,deepika.gupta178@gmail.com,15-08-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0247,Varun Kumar,Medical Coding,BATCH-2026-08,Sneha Reddy,varun.kumar506@gmail.com,15-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0248,Siddharth Mehta,Full Stack Java,BATCH-2026-08,Kavita Sharma,siddharth.mehta6@gmail.com,15-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0249,Ananya Mehta,Medical Coding,BATCH-2026-08,Meera Nair,ananya.mehta449@gmail.com,16-08-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0250,Tanvi Deshmukh,Full Stack Python,BATCH-2026-08,Pooja Sharma,tanvi.deshmukh175@gmail.com,16-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0251,Sneha Rao,Data Science,BATCH-2026-08,Ankit Verma,sneha.rao297@gmail.com,16-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0252,Tanvi Verma,Full Stack Python,BATCH-2026-08,Pooja Sharma,tanvi.verma181@gmail.com,16-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0253,Aakash Sharma,Full Stack Java,BATCH-2026-08,Kavita Sharma,aakash.sharma110@gmail.com,17-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0254,Meenakshi Singh,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,meenakshi.singh392@gmail.com,17-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0255,Aditya Menon,Data Science,BATCH-2026-08,Ankit Verma,aditya.menon295@gmail.com,18-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0256,Isha Kulkarni,Data Science,BATCH-2026-08,Ankit Verma,isha.kulkarni293@gmail.com,18-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0257,Rohan Chawla,Full Stack Java,BATCH-2026-08,Kavita Sharma,rohan.chawla82@gmail.com,18-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0258,Nikhil Chawla,Full Stack Java,BATCH-2026-08,Kavita Sharma,nikhil.chawla122@gmail.com,18-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0259,Nikhil Singh,Full Stack Python,BATCH-2026-08,Pooja Sharma,nikhil.singh200@gmail.com,18-08-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0260,Rahul Kulkarni,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,rahul.kulkarni408@gmail.com,18-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0261,Meenakshi Menon,Data Science,BATCH-2026-08,Sanjay Rao,meenakshi.menon254@gmail.com,18-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0262,Tanvi Nair,Medical Coding,BATCH-2026-08,Meera Nair,tanvi.nair459@gmail.com,19-08-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0263,Karan Reddy,Data Science,BATCH-2026-08,Sanjay Rao,karan.reddy248@gmail.com,19-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0264,Tanvi Malhotra,Full Stack Java,BATCH-2026-08,Kavita Sharma,tanvi.malhotra105@gmail.com,19-08-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0265,Nikhil Bhasin,Medical Coding,BATCH-2026-08,Sneha Reddy,nikhil.bhasin474@gmail.com,19-08-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0266,Amit Singh,Data Science,BATCH-2026-08,Sanjay Rao,amit.singh306@gmail.com,19-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0267,Meenakshi Sharma,Medical Coding,BATCH-2026-08,Sneha Reddy,meenakshi.sharma460@gmail.com,19-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0268,Karan Sharma,Medical Coding,BATCH-2026-08,Sneha Reddy,karan.sharma450@gmail.com,20-08-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0269,Varun Nair,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,varun.nair397@gmail.com,20-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0270,Tanvi Chawla,Full Stack Python,BATCH-2026-08,Ankit Verma,tanvi.chawla220@gmail.com,20-08-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0271,Meenakshi Joshi,Full Stack Python,BATCH-2026-08,Pooja Sharma,meenakshi.joshi159@gmail.com,20-08-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0272,Aditya Mehta,Data Science,BATCH-2026-08,Sanjay Rao,aditya.mehta317@gmail.com,20-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0273,Sneha Nambiar,Medical Coding,BATCH-2026-08,Sneha Reddy,sneha.nambiar440@gmail.com,20-08-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0274,Amit Singh,Data Science,BATCH-2026-08,Sanjay Rao,amit.singh266@gmail.com,20-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0275,Vikram Nambiar,Full Stack Java,BATCH-2026-08,Kavita Sharma,vikram.nambiar18@gmail.com,21-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0276,Meenakshi Pillai,Full Stack Java,BATCH-2026-08,Ramesh Kumar,meenakshi.pillai91@gmail.com,21-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0277,Kavya Verma,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,kavya.verma419@gmail.com,21-08-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0278,Varun Kumar,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,varun.kumar378@gmail.com,21-08-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0279,Rohan Sharma,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,rohan.sharma406@gmail.com,21-08-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0280,Diya Gupta,Full Stack Java,BATCH-2026-08,Ramesh Kumar,diya.gupta95@gmail.com,22-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0281,Rohan Sharma,Full Stack Python,BATCH-2026-08,Pooja Sharma,rohan.sharma238@gmail.com,22-08-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0282,Arjun Rao,Full Stack Java,BATCH-2026-08,Ramesh Kumar,arjun.rao67@gmail.com,22-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0283,Vikram Nair,Data Science,BATCH-2026-08,Ankit Verma,vikram.nair282@gmail.com,22-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0284,Pooja Bhasin,Medical Coding,BATCH-2026-08,Meera Nair,pooja.bhasin451@gmail.com,22-08-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0285,Meenakshi Verma,Data Science,BATCH-2026-08,Ankit Verma,meenakshi.verma270@gmail.com,22-08-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0286,Meenakshi Bhasin,Data Science,BATCH-2026-08,Sanjay Rao,meenakshi.bhasin309@gmail.com,23-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0287,Simran Pillai,Full Stack Java,BATCH-2026-08,Kavita Sharma,simran.pillai36@gmail.com,23-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0288,Karan Malhotra,Full Stack Java,BATCH-2026-08,Ramesh Kumar,karan.malhotra76@gmail.com,23-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0289,Aditya Reddy,Medical Coding,BATCH-2026-08,Meera Nair,aditya.reddy458@gmail.com,23-08-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0290,Varun Menon,Full Stack Java,BATCH-2026-08,Kavita Sharma,varun.menon11@gmail.com,24-08-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0291,Rohan Deshmukh,Medical Coding,BATCH-2026-08,Meera Nair,rohan.deshmukh492@gmail.com,24-08-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0292,Aakash Kumar,Data Science,BATCH-2026-08,Ankit Verma,aakash.kumar283@gmail.com,24-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0293,Swati Reddy,Full Stack Java,BATCH-2026-08,Kavita Sharma,swati.reddy51@gmail.com,24-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0294,Ananya Sharma,Data Science,BATCH-2026-08,Ankit Verma,ananya.sharma260@gmail.com,24-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0295,Vikram Iyer,Data Science,BATCH-2026-08,Ankit Verma,vikram.iyer339@gmail.com,24-08-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0296,Rahul Bhasin,Full Stack Python,BATCH-2026-08,Ankit Verma,rahul.bhasin156@gmail.com,24-08-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0297,Arjun Nambiar,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,arjun.nambiar396@gmail.com,24-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0298,Rajesh Gupta,Data Science,BATCH-2026-08,Ankit Verma,rajesh.gupta253@gmail.com,25-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0299,Ananya Pillai,Full Stack Python,BATCH-2026-08,Pooja Sharma,ananya.pillai203@gmail.com,25-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0300,Varun Gupta,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,varun.gupta383@gmail.com,25-08-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0301,Nikhil Nair,Full Stack Java,BATCH-2026-08,Ramesh Kumar,nikhil.nair118@gmail.com,25-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0302,Kavya Kumar,Medical Coding,BATCH-2026-08,Meera Nair,kavya.kumar482@gmail.com,25-08-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0303,Meenakshi Malhotra,Full Stack Java,BATCH-2026-08,Kavita Sharma,meenakshi.malhotra19@gmail.com,25-08-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0304,Preeti Patel,Data Science,BATCH-2026-08,Sanjay Rao,preeti.patel333@gmail.com,25-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0305,Simran Mehta,Data Science,BATCH-2026-08,Ankit Verma,simran.mehta264@gmail.com,25-08-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0306,Vikram Gupta,Full Stack Python,BATCH-2026-08,Pooja Sharma,vikram.gupta176@gmail.com,26-08-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0307,Amit Bhasin,Data Science,BATCH-2026-08,Ankit Verma,amit.bhasin312@gmail.com,26-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0308,Rajesh Singh,Full Stack Java,BATCH-2026-08,Kavita Sharma,rajesh.singh125@gmail.com,26-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0309,Rahul Bhasin,Data Science,BATCH-2026-08,Ankit Verma,rahul.bhasin275@gmail.com,26-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0310,Neha Singh,Full Stack Python,BATCH-2026-08,Ankit Verma,neha.singh241@gmail.com,26-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0311,Sneha Kumar,Data Science,BATCH-2026-08,Ankit Verma,sneha.kumar242@gmail.com,26-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0312,Manish Kumar,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,manish.kumar387@gmail.com,27-08-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0313,Neha Deshmukh,Medical Coding,BATCH-2026-08,Sneha Reddy,neha.deshmukh476@gmail.com,27-08-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0314,Nikhil Bhasin,Data Science,BATCH-2026-08,Ankit Verma,nikhil.bhasin243@gmail.com,27-08-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0315,Karan Gupta,Full Stack Java,BATCH-2026-08,Kavita Sharma,karan.gupta93@gmail.com,28-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0316,Tanvi Kulkarni,Data Science,BATCH-2026-08,Ankit Verma,tanvi.kulkarni286@gmail.com,28-08-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0317,Meenakshi Patel,Full Stack Java,BATCH-2026-08,Kavita Sharma,meenakshi.patel24@gmail.com,28-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0318,Preeti Malhotra,AWS Cloud Architecture,BATCH-2026-08,Rajesh Gupta,preeti.malhotra357@gmail.com,28-08-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0319,Varun Sharma,Full Stack Python,BATCH-2026-08,Pooja Sharma,varun.sharma182@gmail.com,28-08-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0320,Amit Nambiar,Full Stack Java,BATCH-2026-08,Kavita Sharma,amit.nambiar8@gmail.com,28-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0321,Neha Verma,Full Stack Python,BATCH-2026-08,Ankit Verma,neha.verma184@gmail.com,28-08-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0322,Neha Nambiar,Full Stack Java,BATCH-2026-08,Kavita Sharma,neha.nambiar70@gmail.com,28-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0323,Swati Kumar,Data Science,BATCH-2026-08,Sanjay Rao,swati.kumar342@gmail.com,29-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0324,Ananya Nair,Medical Coding,BATCH-2026-08,Meera Nair,ananya.nair453@gmail.com,29-08-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0325,Neha Verma,Full Stack Python,BATCH-2026-08,Pooja Sharma,neha.verma138@gmail.com,29-08-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0326,Kavya Chawla,Full Stack Java,BATCH-2026-08,Ramesh Kumar,kavya.chawla53@gmail.com,29-08-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0327,Meenakshi Patel,Full Stack Python,BATCH-2026-08,Pooja Sharma,meenakshi.patel213@gmail.com,29-08-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0328,Arjun Rao,Medical Coding,BATCH-2026-08,Meera Nair,arjun.rao473@gmail.com,29-08-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0329,Pooja Nair,Data Science,BATCH-2026-08,Sanjay Rao,pooja.nair273@gmail.com,29-08-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0330,Swati Singh,Full Stack Java,BATCH-2026-08,Kavita Sharma,swati.singh17@gmail.com,30-08-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0331,Pooja Sharma,Full Stack Java,BATCH-2026-08,Ramesh Kumar,pooja.sharma41@gmail.com,30-08-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0332,Pooja Deshmukh,AWS Cloud Architecture,BATCH-2026-08,Vikram Malhotra,pooja.deshmukh413@gmail.com,30-08-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0333,Gaurav Kulkarni,Full Stack Python,BATCH-2026-08,Pooja Sharma,gaurav.kulkarni133@gmail.com,31-08-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0334,Neha Rao,Data Science,BATCH-2026-08,Ankit Verma,neha.rao331@gmail.com,31-08-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0335,Sneha Menon,Full Stack Python,BATCH-2026-08,Pooja Sharma,sneha.menon191@gmail.com,31-08-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0336,Suresh Verma,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,suresh.verma372@gmail.com,01-09-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0337,Siddharth Pillai,Medical Coding,BATCH-2026-09,Sneha Reddy,siddharth.pillai439@gmail.com,01-09-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0338,Deepika Patel,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,deepika.patel424@gmail.com,01-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0339,Pooja Gupta,Full Stack Java,BATCH-2026-09,Kavita Sharma,pooja.gupta22@gmail.com,01-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0340,Rohan Kulkarni,Full Stack Java,BATCH-2026-09,Kavita Sharma,rohan.kulkarni21@gmail.com,01-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0341,Manish Gupta,Medical Coding,BATCH-2026-09,Sneha Reddy,manish.gupta490@gmail.com,01-09-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0342,Siddharth Iyer,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,siddharth.iyer391@gmail.com,01-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0343,Siddharth Rao,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,siddharth.rao421@gmail.com,01-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0344,Ananya Verma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,ananya.verma112@gmail.com,01-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0345,Manish Joshi,Full Stack Python,BATCH-2026-09,Pooja Sharma,manish.joshi198@gmail.com,01-09-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0346,Rajesh Rao,Full Stack Python,BATCH-2026-09,Ankit Verma,rajesh.rao146@gmail.com,01-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0347,Neha Singh,Data Science,BATCH-2026-09,Sanjay Rao,neha.singh271@gmail.com,01-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0348,Neha Nair,Data Science,BATCH-2026-09,Sanjay Rao,neha.nair263@gmail.com,01-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0349,Diya Singh,Full Stack Java,BATCH-2026-09,Kavita Sharma,diya.singh114@gmail.com,02-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0350,Rajesh Joshi,Data Science,BATCH-2026-09,Sanjay Rao,rajesh.joshi336@gmail.com,02-09-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0351,Siddharth Patel,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,siddharth.patel376@gmail.com,03-09-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0352,Nikhil Sharma,Medical Coding,BATCH-2026-09,Meera Nair,nikhil.sharma501@gmail.com,04-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0353,Tanvi Verma,Medical Coding,BATCH-2026-09,Sneha Reddy,tanvi.verma434@gmail.com,04-09-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0354,Swati Pillai,Medical Coding,BATCH-2026-09,Meera Nair,swati.pillai436@gmail.com,04-09-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0355,Vikram Kumar,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,vikram.kumar360@gmail.com,04-09-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0356,Rajesh Deshmukh,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,rajesh.deshmukh402@gmail.com,05-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0357,Neha Bhasin,Data Science,BATCH-2026-09,Ankit Verma,neha.bhasin267@gmail.com,05-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0358,Preeti Reddy,Medical Coding,BATCH-2026-09,Sneha Reddy,preeti.reddy442@gmail.com,05-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0359,Tanvi Reddy,Full Stack Python,BATCH-2026-09,Pooja Sharma,tanvi.reddy154@gmail.com,05-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0360,Manish Deshmukh,Full Stack Java,BATCH-2026-09,Kavita Sharma,manish.deshmukh38@gmail.com,05-09-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0361,Rohan Iyer,Full Stack Java,BATCH-2026-09,Ramesh Kumar,rohan.iyer96@gmail.com,05-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0362,Sneha Nambiar,Full Stack Java,BATCH-2026-09,Ramesh Kumar,sneha.nambiar107@gmail.com,05-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0363,Rahul Bhasin,Medical Coding,BATCH-2026-09,Sneha Reddy,rahul.bhasin497@gmail.com,05-09-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0364,Arjun Deshmukh,Full Stack Java,BATCH-2026-09,Kavita Sharma,arjun.deshmukh13@gmail.com,05-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0365,Suresh Deshmukh,Medical Coding,BATCH-2026-09,Meera Nair,suresh.deshmukh470@gmail.com,05-09-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0366,Pooja Kumar,Full Stack Python,BATCH-2026-09,Ankit Verma,pooja.kumar226@gmail.com,05-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0367,Amit Menon,Full Stack Python,BATCH-2026-09,Pooja Sharma,amit.menon140@gmail.com,05-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0368,Arjun Malhotra,Medical Coding,BATCH-2026-09,Meera Nair,arjun.malhotra471@gmail.com,05-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0369,Priya Kumar,Full Stack Python,BATCH-2026-09,Ankit Verma,priya.kumar189@gmail.com,06-09-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0370,Aditya Bhasin,Full Stack Python,BATCH-2026-09,Pooja Sharma,aditya.bhasin187@gmail.com,06-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0371,Riya Sharma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,riya.sharma49@gmail.com,06-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0372,Manish Chawla,Data Science,BATCH-2026-09,Ankit Verma,manish.chawla259@gmail.com,06-09-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0373,Manish Kulkarni,Full Stack Java,BATCH-2026-09,Kavita Sharma,manish.kulkarni12@gmail.com,06-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0374,Neha Joshi,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,neha.joshi410@gmail.com,07-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0375,Gaurav Menon,Full Stack Python,BATCH-2026-09,Ankit Verma,gaurav.menon234@gmail.com,07-09-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0376,Arjun Nambiar,Data Science,BATCH-2026-09,Ankit Verma,arjun.nambiar341@gmail.com,07-09-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0377,Rohan Kulkarni,Data Science,BATCH-2026-09,Ankit Verma,rohan.kulkarni249@gmail.com,07-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0378,Diya Verma,Data Science,BATCH-2026-09,Ankit Verma,diya.verma310@gmail.com,07-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0379,Suresh Chawla,Medical Coding,BATCH-2026-09,Meera Nair,suresh.chawla480@gmail.com,07-09-2026,08:00 AM - 10:00 AM,15000,1,15000
+STU0380,Varun Gupta,Data Science,BATCH-2026-09,Ankit Verma,varun.gupta250@gmail.com,07-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0381,Rajesh Reddy,Full Stack Python,BATCH-2026-09,Ankit Verma,rajesh.reddy163@gmail.com,08-09-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0382,Isha Kumar,Data Science,BATCH-2026-09,Ankit Verma,isha.kumar278@gmail.com,08-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0383,Suresh Reddy,Full Stack Java,BATCH-2026-09,Ramesh Kumar,suresh.reddy47@gmail.com,08-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0384,Preeti Kulkarni,Medical Coding,BATCH-2026-09,Meera Nair,preeti.kulkarni454@gmail.com,08-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0385,Amit Sharma,Full Stack Java,BATCH-2026-09,Kavita Sharma,amit.sharma30@gmail.com,08-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0386,Manish Gupta,Data Science,BATCH-2026-09,Ankit Verma,manish.gupta265@gmail.com,08-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0387,Priya Joshi,Data Science,BATCH-2026-09,Ankit Verma,priya.joshi340@gmail.com,08-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0388,Ananya Sharma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,ananya.sharma85@gmail.com,08-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0389,Pooja Kumar,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,pooja.kumar427@gmail.com,09-09-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0390,Simran Nambiar,Full Stack Java,BATCH-2026-09,Kavita Sharma,simran.nambiar2@gmail.com,09-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0391,Sneha Nambiar,Full Stack Python,BATCH-2026-09,Ankit Verma,sneha.nambiar212@gmail.com,09-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0392,Suresh Menon,Full Stack Java,BATCH-2026-09,Ramesh Kumar,suresh.menon87@gmail.com,09-09-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0393,Arjun Deshmukh,Full Stack Python,BATCH-2026-09,Ankit Verma,arjun.deshmukh142@gmail.com,09-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0394,Meenakshi Joshi,Full Stack Python,BATCH-2026-09,Ankit Verma,meenakshi.joshi228@gmail.com,09-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0395,Amit Verma,Full Stack Java,BATCH-2026-09,Kavita Sharma,amit.verma102@gmail.com,09-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0396,Varun Kulkarni,Data Science,BATCH-2026-09,Ankit Verma,varun.kulkarni261@gmail.com,10-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0397,Arjun Kumar,Data Science,BATCH-2026-09,Ankit Verma,arjun.kumar320@gmail.com,10-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0398,Sneha Rao,Full Stack Python,BATCH-2026-09,Pooja Sharma,sneha.rao158@gmail.com,10-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0399,Isha Malhotra,Medical Coding,BATCH-2026-09,Meera Nair,isha.malhotra462@gmail.com,10-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0400,Varun Kumar,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,varun.kumar369@gmail.com,10-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0401,Aditya Pillai,Full Stack Java,BATCH-2026-09,Kavita Sharma,aditya.pillai23@gmail.com,10-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0402,Nikhil Malhotra,Data Science,BATCH-2026-09,Ankit Verma,nikhil.malhotra308@gmail.com,10-09-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0403,Siddharth Verma,Full Stack Java,BATCH-2026-09,Kavita Sharma,siddharth.verma123@gmail.com,11-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0404,Karan Mehta,Medical Coding,BATCH-2026-09,Sneha Reddy,karan.mehta489@gmail.com,11-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0405,Manish Gupta,Medical Coding,BATCH-2026-09,Meera Nair,manish.gupta485@gmail.com,11-09-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0406,Vikram Iyer,Full Stack Python,BATCH-2026-09,Pooja Sharma,vikram.iyer230@gmail.com,11-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0407,Meenakshi Reddy,Medical Coding,BATCH-2026-09,Sneha Reddy,meenakshi.reddy509@gmail.com,12-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0408,Gaurav Nambiar,Medical Coding,BATCH-2026-09,Sneha Reddy,gaurav.nambiar465@gmail.com,12-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0409,Ananya Patel,Data Science,BATCH-2026-09,Ankit Verma,ananya.patel338@gmail.com,12-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0410,Manish Verma,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,manish.verma363@gmail.com,12-09-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0411,Suresh Bhasin,Full Stack Java,BATCH-2026-09,Kavita Sharma,suresh.bhasin94@gmail.com,13-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0412,Tanvi Pillai,Medical Coding,BATCH-2026-09,Meera Nair,tanvi.pillai511@gmail.com,13-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0413,Riya Deshmukh,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,riya.deshmukh398@gmail.com,13-09-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0414,Manish Mehta,Full Stack Python,BATCH-2026-09,Pooja Sharma,manish.mehta149@gmail.com,13-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0415,Suresh Malhotra,Full Stack Java,BATCH-2026-09,Ramesh Kumar,suresh.malhotra81@gmail.com,13-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0416,Rohan Mehta,Full Stack Python,BATCH-2026-09,Ankit Verma,rohan.mehta240@gmail.com,14-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0417,Rohan Joshi,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,rohan.joshi412@gmail.com,14-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0418,Neha Pillai,Full Stack Java,BATCH-2026-09,Kavita Sharma,neha.pillai65@gmail.com,14-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0419,Riya Bhasin,Full Stack Java,BATCH-2026-09,Ramesh Kumar,riya.bhasin43@gmail.com,14-09-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0420,Arjun Malhotra,Full Stack Java,BATCH-2026-09,Ramesh Kumar,arjun.malhotra103@gmail.com,14-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0421,Neha Joshi,Full Stack Java,BATCH-2026-09,Ramesh Kumar,neha.joshi1@gmail.com,15-09-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0422,Tanvi Singh,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,tanvi.singh393@gmail.com,15-09-2026,04:30 PM - 06:30 PM,18000,1,18000
+STU0423,Deepika Reddy,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,deepika.reddy389@gmail.com,15-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0424,Riya Sharma,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,riya.sharma388@gmail.com,16-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0425,Kavya Sharma,Data Science,BATCH-2026-09,Sanjay Rao,kavya.sharma280@gmail.com,16-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0426,Tanvi Kulkarni,Full Stack Python,BATCH-2026-09,Ankit Verma,tanvi.kulkarni160@gmail.com,16-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0427,Swati Menon,Full Stack Python,BATCH-2026-09,Ankit Verma,swati.menon204@gmail.com,16-09-2026,11:30 AM - 01:30 PM,22000,1,22000
+STU0428,Varun Mehta,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,varun.mehta352@gmail.com,16-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0429,Varun Verma,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,varun.verma349@gmail.com,16-09-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0430,Swati Kulkarni,Data Science,BATCH-2026-09,Ankit Verma,swati.kulkarni284@gmail.com,16-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0431,Preeti Joshi,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,preeti.joshi364@gmail.com,17-09-2026,11:30 AM - 01:30 PM,18000,1,18000
+STU0432,Swati Joshi,Data Science,BATCH-2026-09,Sanjay Rao,swati.joshi245@gmail.com,17-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0433,Rajesh Bhasin,Medical Coding,BATCH-2026-09,Meera Nair,rajesh.bhasin448@gmail.com,17-09-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0434,Neha Kumar,Full Stack Java,BATCH-2026-09,Kavita Sharma,neha.kumar113@gmail.com,17-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0435,Aakash Nambiar,Data Science,BATCH-2026-09,Ankit Verma,aakash.nambiar258@gmail.com,17-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0436,Sneha Reddy,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,sneha.reddy403@gmail.com,17-09-2026,06:00 PM - 08:00 PM,18000,1,18000
+STU0437,Diya Gupta,Full Stack Java,BATCH-2026-09,Ramesh Kumar,diya.gupta111@gmail.com,17-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0438,Manish Deshmukh,Data Science,BATCH-2026-09,Ankit Verma,manish.deshmukh337@gmail.com,17-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0439,Meenakshi Pillai,Full Stack Python,BATCH-2026-09,Pooja Sharma,meenakshi.pillai151@gmail.com,17-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0440,Rahul Verma,Medical Coding,BATCH-2026-09,Sneha Reddy,rahul.verma487@gmail.com,17-09-2026,09:00 AM - 11:00 AM,15000,1,15000
+STU0441,Kavya Pillai,Data Science,BATCH-2026-09,Ankit Verma,kavya.pillai252@gmail.com,18-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0442,Vikram Pillai,Full Stack Java,BATCH-2026-09,Ramesh Kumar,vikram.pillai15@gmail.com,18-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0443,Gaurav Nambiar,Full Stack Java,BATCH-2026-09,Ramesh Kumar,gaurav.nambiar60@gmail.com,18-09-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0444,Sneha Bhasin,Full Stack Python,BATCH-2026-09,Pooja Sharma,sneha.bhasin136@gmail.com,19-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0445,Rahul Joshi,Data Science,BATCH-2026-09,Sanjay Rao,rahul.joshi335@gmail.com,19-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0446,Preeti Verma,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,preeti.verma405@gmail.com,19-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0447,Priya Chawla,Full Stack Java,BATCH-2026-09,Ramesh Kumar,priya.chawla64@gmail.com,19-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0448,Kavya Patel,Full Stack Python,BATCH-2026-09,Ankit Verma,kavya.patel211@gmail.com,19-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0449,Rajesh Kumar,Medical Coding,BATCH-2026-09,Meera Nair,rajesh.kumar445@gmail.com,19-09-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0450,Kavya Rao,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,kavya.rao426@gmail.com,19-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0451,Priya Patel,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,priya.patel381@gmail.com,19-09-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0452,Aakash Iyer,Medical Coding,BATCH-2026-09,Sneha Reddy,aakash.iyer446@gmail.com,19-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0453,Rajesh Deshmukh,Data Science,BATCH-2026-09,Sanjay Rao,rajesh.deshmukh257@gmail.com,19-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0454,Priya Singh,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,priya.singh411@gmail.com,19-09-2026,09:00 AM - 11:00 AM,18000,1,18000
+STU0455,Simran Patel,Full Stack Java,BATCH-2026-09,Kavita Sharma,simran.patel32@gmail.com,20-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0456,Karan Sharma,Full Stack Python,BATCH-2026-09,Ankit Verma,karan.sharma134@gmail.com,20-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0457,Priya Pillai,Full Stack Java,BATCH-2026-09,Kavita Sharma,priya.pillai88@gmail.com,20-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0458,Swati Nair,Data Science,BATCH-2026-09,Ankit Verma,swati.nair328@gmail.com,20-09-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0459,Amit Nambiar,Full Stack Python,BATCH-2026-09,Ankit Verma,amit.nambiar218@gmail.com,20-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0460,Isha Patel,Medical Coding,BATCH-2026-09,Sneha Reddy,isha.patel495@gmail.com,20-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0461,Priya Deshmukh,Full Stack Python,BATCH-2026-09,Ankit Verma,priya.deshmukh150@gmail.com,21-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0462,Rohan Pillai,Full Stack Java,BATCH-2026-09,Kavita Sharma,rohan.pillai80@gmail.com,21-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0463,Preeti Bhasin,Full Stack Python,BATCH-2026-09,Ankit Verma,preeti.bhasin190@gmail.com,21-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0464,Ananya Sharma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,ananya.sharma57@gmail.com,21-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0465,Deepika Singh,Data Science,BATCH-2026-09,Ankit Verma,deepika.singh292@gmail.com,21-09-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0466,Varun Kumar,Full Stack Java,BATCH-2026-09,Ramesh Kumar,varun.kumar40@gmail.com,21-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0467,Rajesh Pillai,Full Stack Python,BATCH-2026-09,Ankit Verma,rajesh.pillai214@gmail.com,22-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0468,Manish Gupta,Full Stack Python,BATCH-2026-09,Ankit Verma,manish.gupta172@gmail.com,23-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0469,Manish Nambiar,Full Stack Java,BATCH-2026-09,Kavita Sharma,manish.nambiar119@gmail.com,23-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0470,Siddharth Pillai,Full Stack Java,BATCH-2026-09,Ramesh Kumar,siddharth.pillai50@gmail.com,23-09-2026,09:00 AM - 11:00 AM,25000,1,25000
+STU0471,Deepika Pillai,Full Stack Python,BATCH-2026-09,Ankit Verma,deepika.pillai143@gmail.com,23-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0472,Tanvi Verma,Full Stack Python,BATCH-2026-09,Ankit Verma,tanvi.verma161@gmail.com,23-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0473,Arjun Iyer,Medical Coding,BATCH-2026-09,Meera Nair,arjun.iyer486@gmail.com,24-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0474,Kavya Sharma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,kavya.sharma109@gmail.com,24-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0475,Varun Kulkarni,Full Stack Python,BATCH-2026-09,Ankit Verma,varun.kulkarni185@gmail.com,24-09-2026,06:00 PM - 08:00 PM,22000,1,22000
+STU0476,Preeti Iyer,Medical Coding,BATCH-2026-09,Sneha Reddy,preeti.iyer507@gmail.com,24-09-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0477,Rahul Sharma,Medical Coding,BATCH-2026-09,Sneha Reddy,rahul.sharma467@gmail.com,24-09-2026,02:00 PM - 04:00 PM,15000,1,15000
+STU0478,Diya Mehta,Data Science,BATCH-2026-09,Sanjay Rao,diya.mehta247@gmail.com,24-09-2026,06:00 PM - 08:00 PM,30000,1,30000
+STU0479,Amit Sharma,Data Science,BATCH-2026-09,Ankit Verma,amit.sharma318@gmail.com,24-09-2026,04:30 PM - 06:30 PM,30000,1,30000
+STU0480,Pooja Verma,Full Stack Java,BATCH-2026-09,Ramesh Kumar,pooja.verma33@gmail.com,24-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0481,Vikram Bhasin,Full Stack Python,BATCH-2026-09,Ankit Verma,vikram.bhasin236@gmail.com,24-09-2026,09:00 AM - 11:00 AM,22000,1,22000
+STU0482,Varun Nair,Full Stack Python,BATCH-2026-09,Pooja Sharma,varun.nair233@gmail.com,25-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0483,Pooja Kulkarni,Data Science,BATCH-2026-09,Ankit Verma,pooja.kulkarni303@gmail.com,25-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0484,Simran Gupta,Full Stack Java,BATCH-2026-09,Kavita Sharma,simran.gupta72@gmail.com,25-09-2026,02:00 PM - 04:00 PM,25000,1,25000
+STU0485,Isha Mehta,Full Stack Python,BATCH-2026-09,Ankit Verma,isha.mehta222@gmail.com,25-09-2026,02:00 PM - 04:00 PM,22000,1,22000
+STU0486,Neha Deshmukh,Full Stack Java,BATCH-2026-09,Ramesh Kumar,neha.deshmukh63@gmail.com,26-09-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0487,Swati Reddy,Full Stack Java,BATCH-2026-09,Kavita Sharma,swati.reddy59@gmail.com,26-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0488,Neha Nambiar,Full Stack Java,BATCH-2026-09,Ramesh Kumar,neha.nambiar115@gmail.com,26-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0489,Rohan Rao,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,rohan.rao400@gmail.com,26-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0490,Meenakshi Singh,Data Science,BATCH-2026-09,Ankit Verma,meenakshi.singh294@gmail.com,26-09-2026,02:00 PM - 04:00 PM,30000,1,30000
+STU0491,Karan Pillai,Full Stack Python,BATCH-2026-09,Pooja Sharma,karan.pillai231@gmail.com,26-09-2026,08:00 AM - 10:00 AM,22000,1,22000
+STU0492,Aakash Singh,Full Stack Java,BATCH-2026-09,Kavita Sharma,aakash.singh73@gmail.com,26-09-2026,04:30 PM - 06:30 PM,25000,1,25000
+STU0493,Manish Verma,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,manish.verma414@gmail.com,27-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0494,Priya Pillai,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,priya.pillai415@gmail.com,27-09-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0495,Kavya Pillai,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,kavya.pillai407@gmail.com,27-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0496,Priya Deshmukh,Full Stack Java,BATCH-2026-09,Ramesh Kumar,priya.deshmukh75@gmail.com,27-09-2026,11:30 AM - 01:30 PM,25000,1,25000
+STU0497,Neha Deshmukh,Data Science,BATCH-2026-09,Sanjay Rao,neha.deshmukh305@gmail.com,27-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0498,Priya Joshi,Medical Coding,BATCH-2026-09,Sneha Reddy,priya.joshi452@gmail.com,28-09-2026,11:30 AM - 01:30 PM,15000,1,15000
+STU0499,Deepika Kumar,Medical Coding,BATCH-2026-09,Sneha Reddy,deepika.kumar502@gmail.com,28-09-2026,06:00 PM - 08:00 PM,15000,1,15000
+STU0500,Tanvi Sharma,Data Science,BATCH-2026-09,Sanjay Rao,tanvi.sharma246@gmail.com,28-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0501,Karan Malhotra,Data Science,BATCH-2026-09,Ankit Verma,karan.malhotra332@gmail.com,28-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0502,Rohan Menon,Full Stack Java,BATCH-2026-09,Kavita Sharma,rohan.menon9@gmail.com,29-09-2026,08:00 AM - 10:00 AM,25000,1,25000
+STU0503,Aditya Kulkarni,Full Stack Java,BATCH-2026-09,Ramesh Kumar,aditya.kulkarni45@gmail.com,29-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0504,Amit Patel,Medical Coding,BATCH-2026-09,Meera Nair,amit.patel504@gmail.com,29-09-2026,04:30 PM - 06:30 PM,15000,1,15000
+STU0505,Amit Nair,Data Science,BATCH-2026-09,Sanjay Rao,amit.nair302@gmail.com,29-09-2026,08:00 AM - 10:00 AM,30000,1,30000
+STU0506,Riya Bhasin,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,riya.bhasin377@gmail.com,29-09-2026,02:00 PM - 04:00 PM,18000,1,18000
+STU0507,Priya Singh,Full Stack Python,BATCH-2026-09,Pooja Sharma,priya.singh170@gmail.com,29-09-2026,04:30 PM - 06:30 PM,22000,1,22000
+STU0508,Isha Rao,Data Science,BATCH-2026-09,Ankit Verma,isha.rao300@gmail.com,29-09-2026,11:30 AM - 01:30 PM,30000,1,30000
+STU0509,Diya Deshmukh,Data Science,BATCH-2026-09,Ankit Verma,diya.deshmukh287@gmail.com,29-09-2026,09:00 AM - 11:00 AM,30000,1,30000
+STU0510,Preeti Singh,Full Stack Java,BATCH-2026-09,Kavita Sharma,preeti.singh25@gmail.com,30-09-2026,06:00 PM - 08:00 PM,25000,1,25000
+STU0511,Swati Iyer,AWS Cloud Architecture,BATCH-2026-09,Rajesh Gupta,swati.iyer344@gmail.com,30-09-2026,08:00 AM - 10:00 AM,18000,1,18000
+STU0512,Sneha Reddy,AWS Cloud Architecture,BATCH-2026-09,Vikram Malhotra,sneha.reddy404@gmail.com,30-09-2026,04:30 PM - 06:30 PM,18000,1,18000
